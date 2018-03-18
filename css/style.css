@@ -58,3 +58,16 @@ a {
 .insta {
     background-image: url('../img/instagram.png');
 }
+
+.product-block {
+    margin: 40px auto;
+}
+
+.buy-btn {
+    width: 100px;
+    margin: 0 auto;
+}
+
+.hide {
+    display: none;
+}

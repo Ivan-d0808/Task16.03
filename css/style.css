@@ -1,0 +1,60 @@
+a {
+    color: inherit;
+}
+
+.jumbotron {
+    background-color: #FFFFFF;
+}
+
+.prod-block {
+    margin: 40px auto;
+}
+
+.prod-img {
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    margin: 10px 20px;
+    border: 1px solid #DCDCDC;
+    border-radius: 3px;
+}
+
+.prod1 {
+    background-image: url('../img/1.jpg');
+}
+
+.prod2 {
+    background-image: url('../img/2.jpg');
+}
+
+.prod3 {
+    background-image: url('../img/3.jpg');
+}
+
+.prod4 {
+    background-image: url('../img/4.jpg');
+}
+
+.prod5 {
+    background-image: url('../img/5.jpg');
+}
+
+.prod6 {
+    background-image: url('../img/6.jpg');
+}
+
+.social-link {
+    display: block;
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    margin: 0 5px;
+}
+
+.faceboock {
+    background-image: url('../img/faceboock.png');
+}
+
+.insta {
+    background-image: url('../img/instagram.png');
+}

@@ -20,5 +20,8 @@
     "homepage": "https://github.com/Ivan-d0808/Task16.03#readme",
     "devDependencies": {
         "lite-server": "^2.3.0"
+    },
+    "dependencies": {
+        "jquery": "^3.3.1"
     }
 }
